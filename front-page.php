@@ -1,20 +1,17 @@
-<!DOCTYPE html><!-- Last Published: Tue Oct 04 2022 22:17:33 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-domain="www.nftdropscalendar.com" data-wf-page="61bc097a76ba28af329e1d8e" data-wf-site="61a98989a418f6943fefef69" lang="en">
+<!DOCTYPE html>
+<html data-wf-domain="www.dropmint.com" data-wf-page="61bc097a76ba28af329e1d8e" data-wf-site="61a98989a418f6943fefef69" lang="en">
 
 <head>
     <meta charset="utf-8" />
-    <title>NFT Giveaways Drops - NFT Drops Calendar</title>
-    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. NFT Drops Calendar provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." name="description" />
-    <meta content="NFT Giveaways Drops - NFT Drops Calendar" property="og:title" />
-    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. NFT Drops Calendar provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." property="og:description" />
-    <meta content="https://global-uploads.webflow.com/61a98989a418f6943fefef69/61af2e2868298004e89171da_Community-Icon.png" property="og:image" />
-    <meta content="NFT Giveaways Drops - NFT Drops Calendar" property="twitter:title" />
-    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. NFT Drops Calendar provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." property="twitter:description" />
-    <meta content="https://global-uploads.webflow.com/61a98989a418f6943fefef69/61af2e2868298004e89171da_Community-Icon.png" property="twitter:image" />
+    <title>NFT Giveaways Drops - Drop Mint</title>
+    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. Drop Mint provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." name="description" />
+    <meta content="NFT Giveaways Drops - Drop Mint" property="og:title" />
+    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. Drop Mint provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." property="og:description" />
+    <meta content="NFT Giveaways Drops - Drop Mint" property="twitter:title" />
+    <meta content="Giveaway NFT drops &amp; Giveaway NFT collection List. Drop Mint provide you with an updated list of NFT Giveaway&#x27;s. Follow the Steps to get the Giveaway drops." property="twitter:description" />
     <meta property="og:type" content="website" />
     <meta content="summary_large_image" name="twitter:card" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
-    <meta content="PClzJPT1DGiheSAhwkzOMVAXqNc5BkMwubUPLO2V32A" name="google-site-verification" />
     <link href="https://global-uploads.webflow.com/61a98989a418f6943fefef69/css/nft-calendar.webflow.229b32875.min.css" rel="stylesheet" type="text/css" />
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -34,70 +31,8 @@
     </script>
     <link href="https://global-uploads.webflow.com/61a98989a418f6943fefef69/61b0a260a32c02438effd7c5_NFT-Calendar-Logo-favicon.png" rel="shortcut icon" type="image/x-icon" />
     <link href="https://global-uploads.webflow.com/61a98989a418f6943fefef69/61b0a28553e9fd04f3b5ade8_NFT-Calendar-Logo-icon2.png" rel="apple-touch-icon" />
-    <link href="https://www.nftdropscalendar.com/nft-giveaway" rel="canonical" />
-    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-214887854-1"></script>
-    <script type="text/javascript">
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', 'UA-214887854-1', {
-            'anonymize_ip': false
-        });
-    </script><!-- Google Tag Manager -->
-    <script>
-        (function(w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start': new Date().getTime(),
-                event: 'gtm.js'
-            });
-            var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s),
-                dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-PP5WBKF');
-    </script>
-    <!-- End Google Tag Manager -->
-
-    <meta name="baidu-site-verification" content="code-11OCFnhcYy" />
-
-    <script id="jetboost-script" type="text/javascript">
-        window.JETBOOST_SITE_ID = "ckymck6eb017f0nxi9utm6o1k";
-        (function(d) {
-            var s = d.createElement("script");
-            s.src = "https://cdn.jetboost.io/jetboost.js";
-            s.async = 1;
-            d.getElementsByTagName("head")[0].appendChild(s);
-        })(document);
-    </script>
-
-
-    <style>
-        .jb-search-highlight {
-            background: #ffff00;
-            color: #000000;
-        }
-    </style>
-    <meta name="naver-site-verification" content="" />
+    <link href="https://www.dropmint.com/" rel="canonical" />
     <meta name="keywords" content="giveaway nft drops, giveaway nft projects, giveaway nft mints, giveaway nft calendar, free mint, free nft drops">
-    <script type="text/javascript">
-        window.__WEBFLOW_CURRENCY_SETTINGS = {
-            "currencyCode": "USD",
-            "$init": true,
-            "symbol": "$",
-            "decimal": ".",
-            "fractionDigits": 2,
-            "group": ",",
-            "template": "{{wf {\"path\":\"symbol\",\"type\":\"PlainText\"} }} {{wf {\"path\":\"amount\",\"type\":\"CommercePrice\"} }} {{wf {\"path\":\"currencyCode\",\"type\":\"PlainText\"} }}",
-            "hideDecimalForWholeNumbers": false
-        };
-    </script>
 </head>
 
 <body>
@@ -105,7 +40,7 @@
         <div data-collapse="medium" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
             <div class="navigation-full">
                 <div class="wrapper navigation-wrapper">
-                    <div class="navigation-left"><a href="/" class="brand w-nav-brand"><img src="https://global-uploads.webflow.com/61a98989a418f6943fefef69/629d6346ab109b4e5f82fcd7_NFTDC-Logo.webp" loading="lazy" alt="NFT Drops Calendar" class="image contain" /></a></div>
+                    <div class="navigation-left"><a href="/" class="brand w-nav-brand"><img src="https://global-uploads.webflow.com/61a98989a418f6943fefef69/629d6346ab109b4e5f82fcd7_NFTDC-Logo.webp" loading="lazy" alt="Drop Mint" class="image contain" /></a></div>
                     <div class="nav-center-wrap">
                         <nav role="navigation" class="nav-menu w-nav-menu">
                             <div data-hover="true" data-delay="0" class="dropdown w-dropdown">
@@ -199,7 +134,7 @@
                     <h1 class="heading-7 giveawaymobile">NFT GIVEAWAYS</h1>
                 </div>
                 <div data-w-id="29967a2a-4878-4fd6-0757-f98f13b08a46" style="opacity:0" class="problem-main-text-wrapper">
-                    <p class="paragraph-5">Check out the latest NFT Giveaways and get a chance to win <a href="https://www.nftdropscalendar.com/nft-giveaway">Free NFTs </a>and WL Spots</p>
+                    <p class="paragraph-5">Check out the latest NFT Giveaways and get a chance to win <a href="https://www.dropmint.com/">Free NFTs </a>and WL Spots</p>
                 </div>
                 <div data-w-id="36097cc6-6463-ba02-d0e8-749a5848130c" style="opacity:0" class="problem-main-text-wrapper"><a href="/submit-your-giveaway" class="link-3">SUBMIT YOUR GIVEAWAY</a></div>
             </div>
@@ -2617,7 +2552,7 @@
             <div class="wrapper footer">
                 <div class="footer-links-container">
                     <div data-w-id="1278cff4-3226-9d49-6635-5ae2883de95c" class="footer-logo-and-text-container"><a href="/" class="footer-logo-wrapper w-inline-block"><img src="https://global-uploads.webflow.com/61a98989a418f6943fefef69/629d6346ab109b4e5f82fcd7_NFTDC-Logo.webp" loading="lazy" alt="" class="image" /></a>
-                        <p class="paragraph-3">Tired of missing NFT drops and buying on the secondary market? Check our Free NFT Calendar and don&#x27;t miss any upcoming NFT drop.<br />Made with ❤️ for the Decentralized World, NFT Drops Calendar is an independent NFT database and is not affiliated with any NFT project or company.</p><a href="tel:+99-565-654" class="footer-phone-number">+99-565-654</a>
+                        <p class="paragraph-3">Tired of missing NFT drops and buying on the secondary market? Check our Free NFT Calendar and don&#x27;t miss any upcoming NFT drop.<br />Made with ❤️ for the Decentralized World, Drop Mint is an independent NFT database and is not affiliated with any NFT project or company.</p><a href="tel:+99-565-654" class="footer-phone-number">+99-565-654</a>
                         <div class="footer-social-icons-wrapper"><a href="https://twitter.com/NftDropsCal" target="_blank" class="footer-social-icon w-inline-block">
                                 <div class="text-block-23"></div>
                             </a><a href="https://discord.gg/mNhGZevscY" target="_blank" class="footer-social-icon ftdsc w-inline-block">
@@ -2632,7 +2567,7 @@
                         <div class="footer-column">
                             <div class="footer-column-heading">
                                 <h3 class="footer-title">About</h3>
-                            </div><a href="/about" class="footer-link">About us</a><a href="#" class="footer-link">NFT Advertising</a><a href="/media-kit" class="footer-link">Media Kit</a><a href="/contact-us" class="footer-link">Contact Us</a><a href="https://www.nftdropscalendar.com/submit-nft" class="footer-link">Submit your NFT</a>
+                            </div><a href="/about" class="footer-link">About us</a><a href="#" class="footer-link">NFT Advertising</a><a href="/media-kit" class="footer-link">Media Kit</a><a href="/contact-us" class="footer-link">Contact Us</a><a href="https://www.dropmint.com/submit-nft" class="footer-link">Submit your NFT</a>
                         </div>
                         <div class="footer-column">
                             <div class="footer-column-heading">
@@ -2642,7 +2577,7 @@
                         <div class="footer-column _2ndcol">
                             <div class="footer-column-heading">
                                 <h3 class="footer-title">Blockchains</h3>
-                            </div><a href="https://nftdropscalendar.com/blockchain/ethereum" class="footer-link">Ethereum NFTs</a><a href="https://nftdropscalendar.com/blockchain/solana" class="footer-link">Solana NFTs</a><a href="https://nftdropscalendar.com/blockchain/polygon" class="footer-link">Polygon NFTs</a><a href="https://nftdropscalendar.com/blockchain/avalanche" class="footer-link">Avalanche NFTs</a><a href="https://nftdropscalendar.com/blockchain/binance-smart-chain" class="footer-link">BSC NFTs</a>
+                            </div><a href="https://dropmint.com/blockchain/ethereum" class="footer-link">Ethereum NFTs</a><a href="https://dropmint.com/blockchain/solana" class="footer-link">Solana NFTs</a><a href="https://dropmint.com/blockchain/polygon" class="footer-link">Polygon NFTs</a><a href="https://dropmint.com/blockchain/avalanche" class="footer-link">Avalanche NFTs</a><a href="https://dropmint.com/blockchain/binance-smart-chain" class="footer-link">BSC NFTs</a>
                         </div>
                         <div class="footer-column">
                             <div class="footer-column-heading">
@@ -2652,7 +2587,7 @@
                     </div>
                 </div>
                 <div class="footer-copyright-container">
-                    <div class="text-block footer">2022 © All rights reserved. <a href="https://www.nftdropscalendar.com/" target="_blank" class="sumit-link">Cryptolab Solutions</a> Inc.</div>
+                    <div class="text-block footer">2022 © All rights reserved. <a href="https://www.dropmint.com/" target="_blank" class="sumit-link">Cryptolab Solutions</a> Inc.</div>
                     <div class="footer-links-grid"><a href="/terms-and-condition" class="footer-link">Terms &amp; Conditions</a></div>
                 </div>
             </div>
@@ -2661,24 +2596,6 @@
     <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=61a98989a418f6943fefef69" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
     <script src="https://global-uploads.webflow.com/61a98989a418f6943fefef69/js/webflow.e76066da2.js" type="text/javascript"></script>
     <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
-    <script>
-        {
-            "@context": "http://schema.org",
-            "@type": "Organization",
-            "name": "NFT Drops Calendar",
-            "url": "http://nftdropscalendar.com",
-            "address": "",
-            "sameAs": [
-                "https://www.facebook.com/NFTDropsCal",
-                "https://twitter.com/NftDropsCal",
-                "https://www.instagram.com/nftdropscal/",
-                "https://www.linkedin.com/company/nft-drops-calendar/"
-            ]
-        }
-    </script>
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PP5WBKF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
 </body>
 
 </html>
