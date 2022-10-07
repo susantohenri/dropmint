@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html <?php language_attributes(); ?> data-wf-domain="www.dropmint.com" data-wf-page="61bc097a76ba28af329e1d8e" data-wf-site="61a98989a418f6943fefef69">
+<html <?php language_attributes(); ?>>
 
 <head>
     <meta charset="<?php bloginfo('charset'); ?>">
