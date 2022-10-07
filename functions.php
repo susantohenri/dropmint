@@ -24,9 +24,9 @@ add_action('wp_footer', function () {
 });
 
 add_action('wp_enqueue_scripts', function () {
-    wp_enqueue_style('main-css', get_template_directory_uri() . '/dropmint.css');
+    wp_enqueue_style('main-css', get_template_directory_uri() . '/css/dropmint.css');
     wp_enqueue_script('google-webfont', 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js');
-    wp_enqueue_script('header-js', get_template_directory_uri() . '/header.js');
-    wp_enqueue_script('header-js', get_template_directory_uri() . '/jquery-3.5.1.min.js');
-    wp_enqueue_script('header-js', get_template_directory_uri() . '/webflow.js');
+    wp_enqueue_script('header-js', get_template_directory_uri() . '/js/header.js');
+    wp_enqueue_script('header-js', get_template_directory_uri() . '/js/jquery-3.5.1.min.js');
+    wp_enqueue_script('header-js', get_template_directory_uri() . '/js/webflow.js');
 });
